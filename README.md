@@ -17,10 +17,10 @@
 
 ##### Apresentado a mensagem de saída ao final concatenado com os respectivos tipos de ataque
 
- 🧙‍♂️ Se Mago > O **Mag**o atracou usando **Magia**
- 🗡  Se Guerreiro > O **Guerreiro** atacou usando **espada**
- 🧾  Se Monge > O **Monge** atacou usando **artes marciais**
- 🐱‍👤 Se Ninja > O **Ninja** atacou usando **shuriken**
+ - 🧙‍♂️ Se Mago > O **Mag**o atracou usando **Magia**
+ - 🗡  Se Guerreiro > O **Guerreiro** atacou usando **espada**
+ - 🧾  Se Monge > O **Monge** atacou usando **artes marciais**
+ - 🐱‍👤 Se Ninja > O **Ninja** atacou usando **shuriken**
  
  
 >> Qualquer dúvida, Lucas Rangel
